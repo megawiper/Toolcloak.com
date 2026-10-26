@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 980 230" width="980" height="230"><rect width="980" height="230" rx="24" fill="#0f172a"/>
+<g font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-weight="700" font-size="18" fill="#fff" text-anchor="middle">
+<rect x="40" y="60" width="230" height="84" rx="18" fill="#ef4444"/><text x="155" y="96">1  Merge PDF</text><text x="155" y="122" font-size="13" font-weight="400">many files in, one PDF out</text>
+<rect x="375" y="60" width="230" height="84" rx="18" fill="#6366f1"/><text x="490" y="96">2  Compress PDF</text><text x="490" y="122" font-size="13" font-weight="400">smaller file, same pages</text>
+<rect x="710" y="60" width="230" height="84" rx="18" fill="#10b981"/><text x="825" y="96">3  Add watermark</text><text x="825" y="122" font-size="13" font-weight="400">asks first: risky step</text></g>
+<path id="p1" d="M270 102 H375" stroke="#64748b" stroke-width="3" stroke-dasharray="7 7" fill="none"/><path id="p2" d="M605 102 H710" stroke="#64748b" stroke-width="3" stroke-dasharray="7 7" fill="none"/>
+<circle r="8" fill="#fbbf24"><animateMotion dur="3.6s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;.5;1" calcMode="linear"><mpath xlink:href="#p1"/></animateMotion></circle>
+<circle r="8" fill="#fbbf24"><animateMotion dur="3.6s" begin="1.8s" repeatCount="indefinite"><mpath xlink:href="#p2"/></animateMotion></circle>
+<rect x="40" y="176" width="900" height="14" rx="7" fill="#fff" fill-opacity=".1"/>
+<rect x="40" y="176" width="0" height="14" rx="7" fill="url(#g)"><animate attributeName="width" values="0;900;900" keyTimes="0;.9;1" dur="3.6s" repeatCount="indefinite"/></rect>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+<text x="490" y="215" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#94a3b8">Pause, edit a step, retry or "do this step myself". Everything stays in the browser.</text></svg>

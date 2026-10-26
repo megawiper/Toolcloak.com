@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220"><rect width="900" height="220" rx="22" fill="#0f172a"/>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#3b82f6"/></linearGradient></defs>
+<g font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle" fill="#fff" font-size="18">
+<rect x="40" y="70" width="190" height="80" rx="16" fill="#1e293b" stroke="#8b5cf6"/><text x="135" y="105">Your file</text><text x="135" y="130" font-size="14" font-weight="400" fill="#94a3b8">PDF, image, text</text>
+<rect x="355" y="55" width="190" height="110" rx="20" fill="url(#l)"><animate attributeName="opacity" values=".85;1;.85" dur="2.4s" repeatCount="indefinite"/></rect><text x="450" y="104">Your browser</text><text x="450" y="130" font-size="14" font-weight="400">tool runs here</text>
+<rect x="670" y="70" width="190" height="80" rx="16" fill="#1e293b" stroke="#34d399"/><text x="765" y="105">Your result</text><text x="765" y="130" font-size="14" font-weight="400" fill="#94a3b8">download or copy</text></g>
+<path id="p1" d="M230 110 H355" stroke="#475569" stroke-width="2" stroke-dasharray="6 6" fill="none"/><path id="p2" d="M545 110 H670" stroke="#475569" stroke-width="2" stroke-dasharray="6 6" fill="none"/>
+<circle r="7" fill="#a78bfa"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath xlink:href="#p1" xmlns:xlink="http://www.w3.org/1999/xlink"/></animateMotion></circle>
+<circle r="7" fill="#34d399"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"><mpath xlink:href="#p2" xmlns:xlink="http://www.w3.org/1999/xlink"/></animateMotion></circle>
+<text x="450" y="200" text-anchor="middle" font-family="Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#94a3b8">Client-side tools process files on your device. See docs/PRIVACY.md for the details.</text></svg>
