@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Adding a tool**</sub>
+<!-- /tc:header -->
+
 # Adding a tool
+
+> Register it, add a route, build. The rest is automatic.
 
 ## 1. Register it
 In `src/lib/tools-registry.js`:
@@ -38,3 +44,23 @@ For a hand-made tool: mark run buttons with `data-chain-run` and report results 
 - Does it work in a chain? Check `ASSISTANT-REPORT.md` for gaps.
 - Does it work on a phone, in light and dark?
 - Does a *Private* tool really keep the input local? Watch the "bytes uploaded" pill.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="PROJECT_STRUCTURE.md">← Project Structure</a> &nbsp;·&nbsp; <a href="ADDING_AN_ARTICLE.md">Adding an Article →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

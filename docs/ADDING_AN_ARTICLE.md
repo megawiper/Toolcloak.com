@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Adding an article**</sub>
+<!-- /tc:header -->
+
 # Adding an article
+
+> Write a guide as one plain-data file.
 
 A post is **one plain-data file** in `src/content/articles/`. No imports, so `scripts/generate-seo-pages.js` can read it.
 
@@ -27,3 +33,23 @@ Original vector art with no text or brand marks, drawn in `ArticleCover.jsx` wit
 - [ ] Not overlapping an existing guide
 - [ ] `npm run seo` ran (sitemap, Markdown copy, RSS, JSON-LD)
 - [ ] Fedra index regenerated
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="ADDING_A_TOOL.md">← Adding a Tool</a> &nbsp;·&nbsp; <a href="SCRIPTS.md">Scripts →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

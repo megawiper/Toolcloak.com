@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Studios**</sub>
+<!-- /tc:header -->
+
 # Studios
+
+> Full workspaces for bigger jobs.
 
 Studios are full workspaces for bigger jobs. They run in your browser and save work to **My Space** as projects with thumbnails. See [MY_SPACE_AND_SYNC](MY_SPACE_AND_SYNC.md).
 
@@ -44,3 +50,23 @@ See [TOOL_CHAINS](TOOL_CHAINS.md).
 
 ## Not built yet
 Scanner auto-corners, changing existing PDF text in place, pivot tables, slides, whiteboard, mind map, kanban, two-finger rotate in Design, GLB in the 3D viewer.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="TOOLS.md">← Tools</a> &nbsp;·&nbsp; <a href="TOOL_CHAINS.md">Tool Chains →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

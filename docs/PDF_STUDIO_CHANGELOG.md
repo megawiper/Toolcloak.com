@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **PDF Studio: change log and feature status**</sub>
+<!-- /tc:header -->
+
 # PDF Studio: change log and feature status
+
+> Change log and feature status for PDF Studio.
 
 Spec: Toolcloak_PDF_Studio_Comprehensive_Specification.txt (sections 29 and 30).
 Status words follow spec section 27: Implemented = works on supported inputs. Verified = tests passed on documented cases (the person testing marks this). Limited = works with stated limits.
@@ -72,3 +78,23 @@ Note: another edit made at the same time moved the Forms entry into the File men
 - **Studio lag:** pages no longer re-render on every scroll tick (PageView is memoised, scroll position is committed only every ~260 px, layout recomputes only when zoom/mode/size really change). While zooming, the picture is stretched instantly and the sharp redraw waits 160 ms; page pictures are capped at 5 million pixels. Measured in headless Chromium on a 120-page PDF: during Ctrl+wheel zoom, slow frames (>50 ms) went 38 -> 9 and long tasks 532 ms -> 256 ms; fast scrolling long tasks 106 ms -> 0.
 - **Home hero redesigned** (HomeClient.jsx, class prefix `hx-`): big headline, large search bar with a Search button, buttons, three proper trust cards (No upload / No signup / Fast), popular-tool chips, and on desktop a small "Image Compressor" preview card. The old small "No signup." text and the stats strip are gone. Articles, guides and every other Home section are untouched, so the long text content stays for AdSense.
 - **Home LCP:** the largest paint on Home is the hero text (paragraph on phone, H1 on desktop). It used Sora / DM Sans, which swap in late and move the text. The hero now uses the system font only, so its text paints at once and never jumps. Not measured with real Lighthouse / WebPageTest (not available here): please run PageSpeed on the live site and compare.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="MEDIA.md">← Media</a> &nbsp;·&nbsp; <a href="DEVELOPMENT_LOG.md">Development Log →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

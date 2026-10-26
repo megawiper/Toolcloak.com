@@ -1,13 +1,20 @@
-## What does this change?
+## 📝 What does this change?
 
-## Why?
+<!-- One or two sentences. -->
 
-## How did you test it?
+## 💡 Why?
+
+<!-- The problem this solves, or the issue it closes (Closes #123). -->
+
+## 🧪 How did you test it?
+
 - [ ] Mobile
 - [ ] Desktop
 - [ ] Light and dark theme
+- [ ] `npm run build` and `node --test tests/*.test.mjs` pass
 
-## Checklist
+## ✅ Checklist
+
 - [ ] One change per pull request
-- [ ] No tool input sent anywhere it should not be
-- [ ] Docs and CHANGELOG updated
+- [ ] No tool input sent anywhere it should not be (the "bytes uploaded" pill stays at 0)
+- [ ] Docs and `CHANGELOG.md` updated

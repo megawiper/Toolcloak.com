@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Tool catalogue**</sub>
+<!-- /tc:header -->
+
 # Tool catalogue
+
+> The catalogue: 567 tools in 17 categories.
 
 Toolcloak groups its tools into 17 categories. The app shows these counts for the seven biggest categories at the time of writing: Calculator 109, Text 88, Developer 83, Utility 37, Image 32, PDF 26, Design 21. The counts grow as tools are added, so check the site for the live numbers.
 
@@ -58,3 +64,23 @@ Ohm's law, resistor colour code, projectile motion, ideal gas law, molarity, pH,
 ---
 
 This is a summary. The sitemap at `https://toolcloak.com/sitemap.xml` always has the full, current list.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="HOW_IT_WORKS.md">← How It Works</a> &nbsp;·&nbsp; <a href="STUDIOS.md">Studios →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

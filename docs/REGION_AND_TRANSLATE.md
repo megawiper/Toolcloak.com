@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Region, currency and translate**</sub>
+<!-- /tc:header -->
+
 # Region, currency and translate
+
+> Country, currency and page translation.
 
 ## Country
 The visitor's country is detected in the browser and can be changed in *Settings, Region and currency*.
@@ -15,3 +21,23 @@ Google's page-translate widget, driven by `src/lib/translate.js`. Turn it on sit
 
 ## Privacy note
 Translate loads Google's widget only when the visitor uses it. See [PRIVACY](PRIVACY.md).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="PWA_AND_OFFLINE.md">← PWA and Offline</a> &nbsp;·&nbsp; <a href="ARCHITECTURE.md">Architecture →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Architecture**</sub>
+<!-- /tc:header -->
+
 # Architecture
+
+> A static site: files come in, yours never go out.
 
 ![architecture](../assets/architecture.svg)
 
@@ -53,3 +59,23 @@ The file you pick is never stored. Only the result is.
 - Exchange-rate requests when the visitor's currency is not INR (see `src/lib/region.js`).
 
 See [PRIVACY.md](PRIVACY.md).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="REGION_AND_TRANSLATE.md">← Region and Translate</a> &nbsp;·&nbsp; <a href="TECH_STACK.md">Tech Stack →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

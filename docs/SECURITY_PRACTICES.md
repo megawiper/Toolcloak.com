@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Security practices**</sub>
+<!-- /tc:header -->
+
 # Security practices
+
+> How security works here, and where the honest trade-offs are.
 
 How security works at Toolcloak, and where the honest trade-offs are. To report a problem, read [../SECURITY.md](../SECURITY.md).
 
@@ -82,3 +88,23 @@ Lists a contact, preferred languages (English, Hindi), the canonical URL and an 
 
 ## Reporting
 Please report privately. See [../SECURITY.md](../SECURITY.md).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="PRIVACY.md">← Privacy</a> &nbsp;·&nbsp; <a href="FAQ.md">FAQ →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

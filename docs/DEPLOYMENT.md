@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Deployment**</sub>
+<!-- /tc:header -->
+
 # Deployment
+
+> Ship it on Cloudflare Pages in a few minutes.
 
 Toolcloak is a static site. Cloudflare Pages is the intended host.
 
@@ -42,3 +48,23 @@ Run the **Make package-lock** workflow from the Actions tab. It opens a pull req
 - Open Fedra once in a real browser and check the Network tab. The engine was tested in Node.
 - Try a PDF, an image and a chain on a phone.
 - Check the browser console for blocked items if you changed the Content-Security-Policy.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="TESTING.md">← Testing</a> &nbsp;·&nbsp; <a href="PERFORMANCE.md">Performance →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

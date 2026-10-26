@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **SEO and discovery**</sub>
+<!-- /tc:header -->
+
 # SEO and discovery
+
+> The sitemap, structured data and how people and crawlers find Toolcloak.
 
 ## What is in the sitemap
 `public/sitemap.xml` (generated) lists **812 URLs**:
@@ -40,3 +46,23 @@ We want results to show **Toolcloak** (not `toolcloak.com`) and the Toolcloak ic
 
 ## Writing for search
 Target questions people really type ("compress image to 50 KB", "CGPA to percentage", "pdf ka password kaise hataye"). Answer in the first paragraph, then go deep with worked numbers. Write from what the tool really does, limits included.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="PERFORMANCE.md">← Performance</a> &nbsp;·&nbsp; <a href="PRIVACY.md">Privacy →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Embed a tool on your website**</sub>
+<!-- /tc:header -->
+
 # Embed a tool on your website
+
+> Put any Toolcloak tool on your own website.
 
 Every tool page has an **Embed this tool on your website** card a short scroll below the tool. Pick a height, copy the code.
 
@@ -19,3 +25,23 @@ Everything else on the site can only be framed by itself (`X-Frame-Options: SAME
 
 ## No server
 It is all static files.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="VOICE_AND_AUTOMATION.md">← Voice and Automation</a> &nbsp;·&nbsp; <a href="PWA_AND_OFFLINE.md">PWA and Offline →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

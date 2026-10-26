@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Tech stack**</sub>
+<!-- /tc:header -->
+
 # Tech stack
+
+> The framework, the libraries and why they are vendored.
 
 ## Core
 | | |
@@ -34,3 +40,23 @@ About 113,000 lines of JavaScript and JSX across `src`, with 95 modules in `src/
 
 ## Fonts
 Three families only (Sora, DM Sans, DM Mono), with system fonts for the hero text and articles so first paint is never blocked by a font.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="ARCHITECTURE.md">← Architecture</a> &nbsp;·&nbsp; <a href="PROJECT_STRUCTURE.md">Project Structure →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

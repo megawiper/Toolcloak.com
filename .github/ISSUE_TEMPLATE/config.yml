@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Security vulnerability
-    url: https://github.com/security/advisories
-    about: Please report security problems privately, see SECURITY.md.
+  - name: 🔐 Security vulnerability
+    url: https://github.com/megawiper/toolcloak.com/security/advisories/new
+    about: Please report security problems privately. See SECURITY.md.
+  - name: ❓ Question or help
+    url: https://github.com/megawiper/toolcloak.com/blob/main/docs/SUPPORT.md
+    about: Check the FAQ and support guide first.

@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Tool Chains**</sub>
+<!-- /tc:header -->
+
 # Tool Chains
+
+> Link tools into one flow and run it in one tap.
 
 ![chain](../assets/chain-flow.svg)
 
@@ -38,3 +44,23 @@ Video to MP3 then cut, PDF merge then compress, image to resize to WebP, photos 
 - Hand-made tools mark run buttons with `data-chain-run` and report results with `useChainEmit`.
 - Tools that cannot run in a chain are listed in `chainBlocked`. Fedra still finds and opens them.
 - Chain rules live in `src/lib/chainRules.js` (`canFollow`, `checkChain`, `suggestBridge`, `riskNotes`, `joinsFiles`, `worksOnOneFile`).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="STUDIOS.md">← Studios</a> &nbsp;·&nbsp; <a href="FEDRA.md">Fedra →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

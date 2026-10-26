@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Performance**</sub>
+<!-- /tc:header -->
+
 # Performance
+
+> Fast on a cheap phone, on purpose.
 
 Fast on a cheap phone is a goal, not an accident.
 
@@ -18,3 +24,23 @@ Fast on a cheap phone is a goal, not an accident.
 
 ## Measuring
 Run PageSpeed Insights or WebPageTest after each deploy. Check Core Web Vitals in Search Console. Real-device checks matter more than lab scores.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="DEPLOYMENT.md">← Deployment</a> &nbsp;·&nbsp; <a href="SEO.md">SEO →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

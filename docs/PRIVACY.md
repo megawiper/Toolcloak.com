@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Privacy**</sub>
+<!-- /tc:header -->
+
 # Privacy
+
+> What the code does today, in plain words.
 
 This page describes, in plain words, what the code does today. The legal text is on the site's Privacy Policy and Cookie Policy pages. If the code changes, update this page too.
 
@@ -57,3 +63,23 @@ Device sync connects your two devices directly (WebRTC). There is no account and
 
 ## Questions
 Open an issue, or see [SUPPORT](SUPPORT.md).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="SEO.md">← SEO</a> &nbsp;·&nbsp; <a href="SECURITY_PRACTICES.md">Security Practices →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

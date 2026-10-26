@@ -1,24 +1,24 @@
 ---
-name: Bug report
+name: 🐞 Bug report
 about: Something is not working
 title: "[Bug] "
 labels: bug
 ---
 
-**Tool or page**
+**🧰 Tool or page**
 Which tool or page? (name or URL)
 
-**What happened**
+**😕 What happened**
 
-**What you expected**
+**✅ What you expected**
 
-**Steps to reproduce**
+**🔁 Steps to reproduce**
 1.
 2.
 3.
 
-**Device and browser**
+**📱 Device and browser**
 (for example: Android 14, Chrome 130)
 
-**Screenshot or file**
+**🖼️ Screenshot or file**
 Please do not attach files with private information.

@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Features**</sub>
+<!-- /tc:header -->
+
 # Features
+
+> Everything you can do on toolcloak.com.
 
 Everything you can do on [toolcloak.com](https://toolcloak.com).
 
@@ -55,3 +61,23 @@ Installable as an app, with offline pages and cached libraries. See [PWA_AND_OFF
 - **Share box** with a QR code, WhatsApp, Telegram, X, Facebook, Email and Copy. Links opened show a small "Made with Toolcloak" banner.
 - **Donate** by UPI, **Supporters** wall, **Sponsor** placements, **Templates** shop (coming soon), **Custom tool** requests. See [ADVERTISE](ADVERTISE.md).
 - **Embed** any tool: [EMBED](EMBED.md).
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="HOW_IT_WORKS.md">How It Works →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

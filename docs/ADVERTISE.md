@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Advertise, donate and support**</sub>
+<!-- /tc:header -->
+
 # Advertise, donate and support
+
+> Sponsor slots, donations and supporters, all static. There is no ad server.
 
 Everything here is static. There is no ad server.
 
@@ -45,3 +51,23 @@ A small "Donate us" button sits under every tool. Tools with a Generate or Conve
 
 ## Newsletter
 Hidden until `NEWSLETTER.url` is set. Then a card appears on the home page and a link in the footer.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="SUPPORT.md">← Support</a> &nbsp;·&nbsp; <a href="BRANDING.md">Branding →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

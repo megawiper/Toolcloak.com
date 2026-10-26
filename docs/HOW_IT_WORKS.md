@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **How a tool page works**</sub>
+<!-- /tc:header -->
+
 # How a tool page works
+
+> A walk through one tool page, step by step.
 
 Using **PDF to Word** as the example.
 
@@ -17,3 +23,23 @@ Using **PDF to Word** as the example.
 13. **The upload pill.** When you pick a file or a result appears, a small pill says how many bytes of files this page has uploaded. It should say 0.
 
 > **Good to know:** PDF to Word extracts the text of a PDF. It works best on PDFs made from Word or Docs (real text). Scanned pages that are just pictures have no text to extract. Use the OCR tool for those.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="FEATURES.md">← Features</a> &nbsp;·&nbsp; <a href="TOOLS.md">Tools →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

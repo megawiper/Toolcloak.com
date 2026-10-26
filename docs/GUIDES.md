@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Guides (articles)**</sub>
+<!-- /tc:header -->
+
 # Guides (articles)
+
+> 188 long-form guides that explain what each tool is really doing.
 
 188 long-form guides at [toolcloak.com/articles](https://toolcloak.com/articles). Each starts with a tool you already use, then shows what happens under the hood with real numbers.
 
@@ -29,3 +35,23 @@ See [ADDING_AN_ARTICLE](ADDING_AN_ARTICLE.md).
 3. Use real worked numbers.
 4. Keep the title specific.
 5. **Do not overlap an existing guide.** Two guides on the same question compete in search. (The colour-format guides `hex-rgb-and-hsl-three-ways-to-write-the-same-colour` and the same name ending `-and-which-to-use` are close. Merge or differentiate them and redirect the old URL.)
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="FEDRA.md">← Fedra</a> &nbsp;·&nbsp; <a href="MY_SPACE_AND_SYNC.md">My Space and Sync →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

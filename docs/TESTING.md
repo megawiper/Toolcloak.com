@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Testing**</sub>
+<!-- /tc:header -->
+
 # Testing
+
+> Node's built-in runner, with no extra framework.
 
 Tests use Node's built-in runner. No extra framework.
 
@@ -22,3 +28,23 @@ Several features need a real browser: camera, touch, WebRTC sync, voice, and the
 
 ## Adding tests
 Put `something.test.mjs` in `tests/`. Pure logic belongs in `src/lib` so it can be loaded from Node with `tests/helpers/loadLib.mjs`.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="SCRIPTS.md">← Scripts</a> &nbsp;·&nbsp; <a href="DEPLOYMENT.md">Deployment →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

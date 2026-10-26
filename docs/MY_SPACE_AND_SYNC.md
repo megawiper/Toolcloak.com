@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **My Space and device sync**</sub>
+<!-- /tc:header -->
+
 # My Space and device sync
+
+> Your projects, files and chains stay on your device and sync directly between your own devices.
 
 ## My Space (`/library`)
 Your home base on this device.
@@ -26,3 +32,23 @@ Move projects, chains, history and saved files between your phone and your lapto
 - **No account and no server in between.** The two devices connect directly (WebRTC). See `src/lib/syncRtc.js` and `syncTransfer.js`.
 - The scanner uses the browser's QR detector, or `jsQR` where that is missing.
 - Both devices need to be online at the same moment while they sync.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="GUIDES.md">← Guides</a> &nbsp;·&nbsp; <a href="VOICE_AND_AUTOMATION.md">Voice and Automation →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

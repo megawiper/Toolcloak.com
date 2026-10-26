@@ -1,4 +1,10 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Project structure**</sub>
+<!-- /tc:header -->
+
 # Project structure
+
+> Where everything lives in the repository.
 
 ```
 .
@@ -64,3 +70,23 @@
 | Sync | `src/lib/syncRtc.js`, `syncTransfer.js`, `src/components/SyncClient.jsx` |
 | Voice | `src/components/VoiceCommand.jsx`, `src/lib/voiceAgent.js` |
 | Business settings | `src/lib/business.js`, `donate.js`, `sponsors.js`, `supporters.js` |
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="TECH_STACK.md">← Tech Stack</a> &nbsp;·&nbsp; <a href="ADDING_A_TOOL.md">Adding a Tool →</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>

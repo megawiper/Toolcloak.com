@@ -1,3 +1,7 @@
+<!-- tc:header -->
+<sub>[🏠 Toolcloak](../README.md) › [Docs](README.md) › **Development Log**</sub>
+<!-- /tc:header -->
+
 > **Archive.** This is the original development log that used to be the repository README. It is kept as history: version notes, design decisions and file-level details. The current README is in the repository root.
 
 # Toolcloak — Free Online Tools Website
@@ -463,3 +467,23 @@ All of it is static (no server). The settings live in three small files, each wi
 - `remove-duplicate-lines` (Duplicate Line Remover), `remove-line-breaks` (Line Break Remover), `date-difference-calculator` (Date Difference Calculator), `random-name-picker` (Random Name Picker). Each is tied to its tool and has an "In short" box, 8 FAQs (one Hinglish), tables and figures. Four new original covers in `ArticleCover.jsx`: `dedupelines`, `linejoin`, `dategap`, `namedraw`.
 - Registered at the top of `POSTS` in `src/lib/articles.js` under `// batch 5b`. Eight older articles got one "See also" paragraph linking to them (days-until-date, working-days, age-calculator, random-number-generator, dice-and-coins, word-counter, pdf-to-word, ocr-image-text).
 - `seo`, assistant index and `og` were re-run (188 articles, 6,705 knowledge passages, 31 tests pass): sitemap, feed, `llms*.txt`, `.md` copies, `public/seo/articles/*.html` and share images include them.
+
+
+<!-- tc:footer -->
+<br/>
+
+---
+
+<div align="center">
+
+<sub><a href="PDF_STUDIO_CHANGELOG.md">← PDF Studio Changelog</a></sub>
+<br/><br/>
+<a href="../README.md"><b>← Back to README</b></a> &nbsp;·&nbsp; <a href="README.md">Documentation index</a> &nbsp;·&nbsp; <a href="https://github.com/megawiper/toolcloak.com">megawiper/toolcloak.com</a>
+
+<br/>
+
+<a href="../README.md"><img src="../assets/brand/logo-wordmark.png" height="44" alt="Toolcloak"/></a>
+
+<sub>Free tools, built to be genuinely useful. Your files stay yours.</sub>
+
+</div>
